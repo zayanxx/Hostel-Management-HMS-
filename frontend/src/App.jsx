@@ -2,7 +2,7 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/common/Navbar';
 import About from './components/common/About';
-import Contact from './components/common/Contact.jsx';
+import Contact from './components/common/Contact';
 import AdminLogin from './features/admin/AdminLogin';
 import AdminRegister from './features/admin/AdminRegister';
 import UserLogin from './features/auth/Login';
